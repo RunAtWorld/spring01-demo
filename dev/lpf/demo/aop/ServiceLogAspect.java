@@ -14,12 +14,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 
-/**
- * 功能描述
- *
- * @author l00523381
- * @since 2019-09-20
- */
 @Component
 @Aspect
 public class ServiceLogAspect {
