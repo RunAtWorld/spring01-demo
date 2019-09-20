@@ -1,9 +1,6 @@
 
 package dev.lpf.demo.aop.user;
 
-import dev.lpf.demo.aop.user.model.User;
-import dev.lpf.demo.aop.user.mapper.UserMapper;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

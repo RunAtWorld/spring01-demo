@@ -1,6 +1,6 @@
 package dev.lpf.spring01demo;
 
-import dev.lpf.demo.aop.user.service.UserService;
+import dev.lpf.demo.aop.user.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

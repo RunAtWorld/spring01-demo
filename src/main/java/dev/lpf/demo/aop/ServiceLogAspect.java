@@ -18,7 +18,7 @@ import java.util.Arrays;
 @Aspect
 public class ServiceLogAspect {
 
-    @Pointcut("execution(* dev.lpf.demo.aop.*.service..*(..))")
+    @Pointcut("execution(* dev.lpf.demo.aop..*(..))")
     public void pointcut() {
     }
 

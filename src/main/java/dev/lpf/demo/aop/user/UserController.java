@@ -1,8 +1,6 @@
 
 package dev.lpf.demo.aop.user;
 
-import dev.lpf.demo.aop.user.model.User;
-import dev.lpf.demo.aop.user.service.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
