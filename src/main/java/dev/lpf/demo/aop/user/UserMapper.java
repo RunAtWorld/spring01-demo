@@ -1,7 +1,7 @@
 package dev.lpf.demo.aop.user;
 
 
-public interface UserMapper {
+public interface    UserMapper {
     /**
      * @mbg.generated generated automatically, do not modify!
      */
