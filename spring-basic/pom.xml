@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.lpf</groupId>
-    <artifactId>springannotation</artifactId>
+    <artifactId>springbasic</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
         <dependency>
@@ -20,5 +19,6 @@
         </dependency>
 
     </dependencies>
+
 
 </project>
