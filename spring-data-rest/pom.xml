@@ -11,7 +11,7 @@
     <groupId>dev.lpf</groupId>
     <artifactId>spring-data-rest-glance</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-data-rest-glance</name>
+    <name>spring-data-rest</name>
     <description>Demo project for Spring Data Rest</description>
 
     <properties>
