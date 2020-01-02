@@ -1,4 +1,4 @@
-package com.github.springdatarestglance;
+package dev.lpf.springdatarest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

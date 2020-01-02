@@ -1,4 +1,4 @@
-package com.github.springdatarestglance;
+package dev.lpf.springdatarest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
