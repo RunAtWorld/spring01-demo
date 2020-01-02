@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringDataRestGlanceApplicationTests {
+public class SpringDataRestDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {

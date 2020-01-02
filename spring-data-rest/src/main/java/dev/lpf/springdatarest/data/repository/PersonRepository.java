@@ -1,6 +1,6 @@
-package com.github.springdatarestglance.data.repository;
+package dev.lpf.springdatarest.data.repository;
 
-import com.github.springdatarestglance.data.entity.Person;
+import dev.lpf.springdatarest.data.entity.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

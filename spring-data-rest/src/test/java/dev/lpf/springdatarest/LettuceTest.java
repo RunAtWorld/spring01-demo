@@ -1,4 +1,4 @@
-package com.github.springdatarestglance;
+package dev.lpf.springdatarest;
 
 import io.lettuce.core.RedisClient;
 import io.lettuce.core.RedisURI;

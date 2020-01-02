@@ -1,4 +1,4 @@
-package com.github.springsecuritydemo;
+package dev.lpf.springsecurity;
 
 import org.springframework.boot.test.context.SpringBootTest;
 

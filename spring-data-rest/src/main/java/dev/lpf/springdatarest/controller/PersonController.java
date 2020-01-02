@@ -1,4 +1,4 @@
-package com.github.springdatarestglance.controller;
+package dev.lpf.springdatarest.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

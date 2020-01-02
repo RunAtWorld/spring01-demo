@@ -1,4 +1,4 @@
-package com.github.springdatarestglance.data.entity;
+package dev.lpf.springdatarest.data.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
